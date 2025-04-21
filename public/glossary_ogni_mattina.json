@@ -1,0 +1,72 @@
+{
+  "ogni": {
+    "word": "ogni",
+    "translation": "jeden",
+    "category": "Pronomen",
+    "grammar": "unveränderlich, immer Singular",
+    "culture_note": "Wird bei wiederkehrenden Ereignissen verwendet"
+  },
+  "mattina": {
+    "word": "mattina",
+    "translation": "Morgen",
+    "category": "Substantiv",
+    "grammar": "feminin, Singular",
+    "culture_note": "Tageszeiten sind meist feminin"
+  },
+  "anna": {
+    "word": "Anna",
+    "translation": "Anna",
+    "category": "Eigenname",
+    "grammar": "Subjekt",
+    "culture_note": "Eigenname, wird wie ein Subjekt behandelt"
+  },
+  "prende": {
+    "word": "prende",
+    "translation": "nimmt",
+    "category": "Verb",
+    "grammar": "3. Person Singular, Präsens von ‚prendere‘",
+    "culture_note": "Wird oft für ‚nehmen‘ oder ‚einen Kaffee trinken‘ verwendet"
+  },
+  "un": {
+    "word": "un",
+    "translation": "ein",
+    "category": "unbestimmter Artikel",
+    "grammar": "maskulin, Singular",
+    "culture_note": "‚Un‘ ist der maskuline unbestimmte Artikel"
+  },
+  "caffè": {
+    "word": "caffè",
+    "translation": "Kaffee",
+    "category": "Substantiv",
+    "grammar": "maskulin, Singular",
+    "culture_note": "‚Un caffè‘ ist fast immer ein Espresso in Italien"
+  },
+  "e": {
+    "word": "e",
+    "translation": "und",
+    "category": "Konjunktion",
+    "grammar": "unveränderlich",
+    "culture_note": "Verbindet gleichrangige Satzteile"
+  },
+  "legge": {
+    "word": "legge",
+    "translation": "liest",
+    "category": "Verb",
+    "grammar": "3. Person Singular, Präsens von ‚leggere‘",
+    "culture_note": "Standardform von ‚lesen‘"
+  },
+  "il": {
+    "word": "il",
+    "translation": "der",
+    "category": "bestimmter Artikel",
+    "grammar": "maskulin, Singular",
+    "culture_note": "Wird vor maskulinen Nomen im Singular verwendet"
+  },
+  "giornale": {
+    "word": "giornale",
+    "translation": "Zeitung",
+    "category": "Substantiv",
+    "grammar": "maskulin, Singular",
+    "culture_note": "Tägliche Zeitung"
+  }
+}

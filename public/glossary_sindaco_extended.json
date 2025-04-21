@@ -1,0 +1,68 @@
+{
+  "nuovo": {
+    "word": "nuovo",
+    "category": "Adjektiv",
+    "cefr_level": "A1",
+    "grammar": "maskulin, Singular – angepasst an ‚sindaco‘.",
+    "culture_note": "In der italienischen Grammatik passt sich das Adjektiv in Genus und Numerus dem Nomen an.",
+    "comparison": "Wie ‚nuevo‘ im Spanischen, ‚nouveau‘ im Französischen.",
+    "external_links": []
+  },
+  "sindaco": {
+    "word": "sindaco",
+    "category": "Berufsbezeichnung",
+    "cefr_level": "A2",
+    "grammar": "maskulines Nomen, auch bei weiblicher Ausübung meist maskulin.",
+    "culture_note": "‚La sindaca‘ ist korrekt, wird aber nicht überall akzeptiert.",
+    "comparison": "‚Mayor‘ (Englisch), ‚Bürgermeister‘ (Deutsch).",
+    "external_links": [{
+      "title": "YouTube: Sprachwandel und Genderdebatte",
+      "url": "https://www.youtube.com/watch?v=aZaBzeVbLnQ"
+    }]
+  },
+  "promette": {
+    "word": "promette",
+    "category": "Verb (3. Pers. Sing.)",
+    "cefr_level": "B1",
+    "grammar": "3. Person Singular Präsens von ‚promettere‘.",
+    "culture_note": "Häufig in politischen Kontexten.",
+    "comparison": "‚To promise‘ (Englisch), ‚prometer‘ (Spanisch).",
+    "external_links": []
+  },
+  "voti": {
+    "word": "voti",
+    "category": "Plural-Nomen",
+    "cefr_level": "A2",
+    "grammar": "Plural von ‚voto‘ – hier: Wahlstimmen.",
+    "culture_note": "Kann auch Schulnoten bedeuten.",
+    "comparison": "‚Votes‘ (Englisch), ‚notas‘ (Spanisch).",
+    "external_links": []
+  },
+  "elezioni": {
+    "word": "elezioni",
+    "category": "Plural-Nomen",
+    "cefr_level": "B1",
+    "grammar": "Plural von ‚elezione‘ – feminin.",
+    "culture_note": "Nicht zu verwechseln mit ‚Selektion‘ im Deutschen.",
+    "comparison": "‚Election‘ (Englisch), ‚elección‘ (Spanisch).",
+    "external_links": []
+  },
+  "trasporti": {
+    "word": "trasporti",
+    "category": "Plural-Nomen",
+    "cefr_level": "B1",
+    "grammar": "Plural von ‚trasporto‘.",
+    "culture_note": "Fehlendes ‚n‘ im Vergleich zu ‚transport‘ im Deutschen.",
+    "comparison": "‚Transport‘ (Deutsch), ‚transporte‘ (Spanisch).",
+    "external_links": []
+  },
+  "scuole": {
+    "word": "scuole",
+    "category": "Plural-Nomen",
+    "cefr_level": "A1",
+    "grammar": "Plural von ‚scuola‘ – feminin.",
+    "culture_note": "Italienisches Bildungssystem stark regional geprägt.",
+    "comparison": "‚School‘ (Englisch), ‚escuela‘ (Spanisch).",
+    "external_links": []
+  }
+}

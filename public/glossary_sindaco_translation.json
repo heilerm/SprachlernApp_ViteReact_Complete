@@ -1,0 +1,66 @@
+{
+  "il": {
+    "word": "il",
+    "translation": "der",
+    "category": "bestimmter Artikel",
+    "grammar": "maskulin, Singular",
+    "culture_note": "‚Il‘ wird vor maskulinen Nomen im Singular verwendet.",
+    "cefr_level": "A1"
+  },
+  "nuovo": {
+    "word": "nuovo",
+    "translation": "neu",
+    "category": "Adjektiv",
+    "grammar": "maskulin, Singular",
+    "culture_note": "Adjektive passen sich in Genus und Numerus dem Nomen an.",
+    "cefr_level": "A1"
+  },
+  "sindaco": {
+    "word": "sindaco",
+    "translation": "Bürgermeister",
+    "category": "Substantiv",
+    "grammar": "maskulin, Singular",
+    "culture_note": "‚Sindaco‘ ist ein maskuliner Berufstitel im Italienischen, auch bei Frauen oft in der maskulinen Form verwendet.",
+    "cefr_level": "A2"
+  },
+  "di": {
+    "word": "di",
+    "translation": "von",
+    "category": "Präposition",
+    "grammar": "unveränderlich",
+    "culture_note": "‚Di‘ zeigt Besitz oder Herkunft an.",
+    "cefr_level": "A1"
+  },
+  "milano": {
+    "word": "Milano",
+    "translation": "Mailand",
+    "category": "Eigenname",
+    "grammar": "Stadtname, feminin",
+    "culture_note": "Städte gelten im Italienischen oft als feminin, auch wenn der Artikel nicht verwendet wird.",
+    "cefr_level": "A1"
+  },
+  "è": {
+    "word": "è",
+    "translation": "ist",
+    "category": "Verb",
+    "grammar": "3. Person Singular, Präsens von ‚essere‘",
+    "culture_note": "‚è‘ ist die häufigste Form von ‚essere‘ (sein).",
+    "cefr_level": "A1"
+  },
+  "giuseppe": {
+    "word": "Giuseppe",
+    "translation": "Giuseppe",
+    "category": "Eigenname",
+    "grammar": "Subjekt",
+    "culture_note": "Italienischer Vorname",
+    "cefr_level": "A2"
+  },
+  "sala": {
+    "word": "Sala",
+    "translation": "Sala",
+    "category": "Eigenname",
+    "grammar": "Nachname",
+    "culture_note": "Nachnamen werden im Italienischen wie Nomen behandelt, meist maskulin",
+    "cefr_level": "A2"
+  }
+}

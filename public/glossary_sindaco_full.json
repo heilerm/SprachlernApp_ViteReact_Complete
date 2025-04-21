@@ -1,0 +1,85 @@
+{
+  "nuovo": {
+    "word": "nuovo",
+    "translation": "neu",
+    "category": "Adjektiv",
+    "cefr_level": "A1",
+    "grammar": "maskulin, Singular – angepasst an ‚sindaco‘.",
+    "culture_note": "In der italienischen Grammatik passt sich das Adjektiv in Genus und Numerus dem Nomen an.",
+    "cultural_examples": [
+      {
+        "form": "nuovo",
+        "example": "Il nuovo sindaco arriva oggi.",
+        "explanation": "maskulin, Singular – z. B. ‚der neue Bürgermeister‘"
+      },
+      {
+        "form": "nuova",
+        "example": "La nuova scuola è molto grande.",
+        "explanation": "feminin, Singular – z. B. ‚die neue Schule‘"
+      },
+      {
+        "form": "nuovi",
+        "example": "I nuovi studenti sono gentili.",
+        "explanation": "maskulin, Plural – z. B. ‚die neuen Schüler‘"
+      },
+      {
+        "form": "nuove",
+        "example": "Le nuove idee sono interessanti.",
+        "explanation": "feminin, Plural – z. B. ‚die neuen Ideen‘"
+      }
+    ],
+    "comparison": "Wie ‚nuevo‘ im Spanischen, ‚nouveau‘ im Französischen.",
+    "external_links": []
+  },
+  "sindaco": {
+    "word": "sindaco",
+    "category": "Berufsbezeichnung",
+    "cefr_level": "A2",
+    "grammar": "maskulines Nomen, auch bei weiblicher Ausübung meist maskulin.",
+    "culture_note": "‚La sindaca‘ ist korrekt, wird aber nicht überall akzeptiert.",
+    "context_annotation": "In diesem Text steht ‚sindaco‘ im Zusammenhang mit Giuseppe Sala – also einer männlichen Person.",
+    "comparison": "‚Mayor‘ (Englisch), ‚Bürgermeister‘ (Deutsch).",
+    "external_links": [
+      {
+        "title": "YouTube: Sprachwandel und Genderdebatte",
+        "url": "https://www.youtube.com/watch?v=aZaBzeVbLnQ"
+      }
+    ]
+  },
+  "ogni": {
+    "word": "ogni",
+    "category": "Determinativ",
+    "cefr_level": "A1",
+    "grammar": "Unveränderlich – bedeutet ‚jeder/jede/jedes‘.",
+    "culture_note": "Wird oft in Alltagsroutinen verwendet.",
+    "comparison": "‚Each‘ / ‚every‘ im Englischen.",
+    "external_links": []
+  },
+  "mattina": {
+    "word": "mattina",
+    "category": "Nomen",
+    "cefr_level": "A1",
+    "grammar": "feminin, Singular",
+    "culture_note": "Italiener frühstücken meist süß und eher spät.",
+    "comparison": "‚Morning‘ (Englisch), ‚Morgen‘ (Deutsch)",
+    "external_links": []
+  },
+  "caffè": {
+    "word": "caffè",
+    "category": "Nomen",
+    "cefr_level": "A1",
+    "grammar": "maskulin, Singular",
+    "culture_note": "In Italien trinkt man Caffè meist stehend an der Bar.",
+    "comparison": "‚Coffee‘ (Englisch), ‚Kaffee‘ (Deutsch)",
+    "external_links": []
+  },
+  "giornale": {
+    "word": "giornale",
+    "category": "Nomen",
+    "cefr_level": "A1",
+    "grammar": "maskulin, Singular",
+    "culture_note": "Zeitungen spielen in Italien nach wie vor eine wichtige Rolle im Alltag.",
+    "comparison": "‚Newspaper‘ (Englisch), ‚Zeitung‘ (Deutsch)",
+    "external_links": []
+  }
+}

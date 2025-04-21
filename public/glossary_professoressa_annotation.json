@@ -1,0 +1,27 @@
+{
+  "professoressa": {
+    "word": "professoressa",
+    "lemma": "professore",
+    "category": "Nomen / Berufsbezeichnung",
+    "gender": "feminin",
+    "cefr_level": "C1",
+    "grammar": "Weibliche Form des Berufs ‚professore‘. Die Endung -essa zeigt das weibliche Genus an.",
+    "culture_note": "In Italien wird die weibliche Berufsbezeichnung ‚professoressa‘ häufig verwendet und ist allgemein akzeptiert. Im Gegensatz dazu sind feminisierte Titel wie ‚la sindaca‘ oder ‚l’ingegnera‘ umstrittener.",
+    "comparison": "Im Englischen lautet der Beruf für beide Geschlechter meist gleich: ‚professor‘. Im Deutschen wird ‚Professorin‘ verwendet.",
+    "external_links": [
+      {
+        "title": "YouTube: Sprachwandel und Genderdebatte",
+        "url": "https://www.youtube.com/watch?v=aZaBzeVbLnQ"
+      }
+    ]
+  },
+  "entra": {
+    "word": "entra",
+    "category": "Verb",
+    "cefr_level": "A1",
+    "grammar": "3. Person Singular von „entrare“ im Präsens.",
+    "culture_note": "Wird oft verwendet beim Eintreten in Räume oder Gespräche.",
+    "comparison": "Wie „enter“ im Englischen oder „entrar“ im Spanischen.",
+    "external_links": []
+  }
+}

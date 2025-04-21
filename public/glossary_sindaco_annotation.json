@@ -1,0 +1,47 @@
+{
+  "nuovo": {
+    "word": "nuovo",
+    "category": "Adjektiv",
+    "cefr_level": "A1",
+    "grammar": "maskulin, Singular – angepasst an ‚sindaco‘.",
+    "culture_note": "In der italienischen Grammatik passt sich das Adjektiv in Genus und Numerus dem Nomen an.",
+    "comparison": "Wie ‚nuevo‘ im Spanischen, ‚nouveau‘ im Französischen. Achtung: Im Deutschen keine Anpassung des Adjektivs an das Geschlecht.",
+    "external_links": []
+  },
+  "sindaco": {
+    "word": "sindaco",
+    "category": "Berufsbezeichnung",
+    "cefr_level": "A2",
+    "grammar": "maskulines Nomen, bleibt meist maskulin, auch bei weiblicher Person („la sindaca“ optional).",
+    "culture_note": "Die Berufsbezeichnung ist traditionell männlich, selbst bei weiblicher Ausübung. ‚La sindaca‘ ist grammatikalisch korrekt, aber nicht überall akzeptiert.",
+    "comparison": "‚Mayor‘ im Englischen; ‚Bürgermeister‘ im Deutschen – traditionell männlich.",
+    "external_links": []
+  },
+  "promette": {
+    "word": "promette",
+    "category": "Verb (3. Pers. Sing.)",
+    "cefr_level": "B1",
+    "grammar": "3. Person Singular Präsens von ‚promettere‘.",
+    "culture_note": "Wird häufig in politischen Kontexten verwendet.",
+    "comparison": "‚to promise‘ im Englischen; ‚promettere‘ auch im Spanischen.",
+    "external_links": []
+  },
+  "voti": {
+    "word": "voti",
+    "category": "Plural-Nomen",
+    "cefr_level": "A2",
+    "grammar": "Plural von ‚voto‘ – hier im Sinne von ‚Stimmen‘ bei einer Wahl.",
+    "culture_note": "‚Voti‘ kann auch Noten im schulischen Kontext bedeuten.",
+    "comparison": "‚Votes‘ im Englischen; ‚voti‘ im Spanischen ebenfalls.",
+    "external_links": []
+  },
+  "elezioni": {
+    "word": "elezioni",
+    "category": "Plural-Nomen",
+    "cefr_level": "B1",
+    "grammar": "Plural von ‚elezione‘ – feminin.",
+    "culture_note": "Nicht zu verwechseln mit dem deutschen Wort ‚Selektion‘!",
+    "comparison": "‚Election‘ im Englischen; ‚elección‘ im Spanischen.",
+    "external_links": []
+  }
+}

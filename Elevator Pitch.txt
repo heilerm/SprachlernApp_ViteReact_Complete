@@ -1,0 +1,72 @@
+Projekt: KI-gestützte Sprachlernplattform mit immersiven Avataren
+
+1. Investor-Pitch (PDF-Text)
+
+Titel: Die Sprachlern-Revolution: KI trifft immersive Gesprächswelten
+
+Kurzfassung:
+Wir entwickeln eine Sprachlernplattform, die klassische Vokabel-Drills hinter sich lässt. Stattdessen erleben Nutzer lebendige Gesprächssituationen in einer KI-generierten, virtuellen Welt.
+
+Problem:
+Erwachsene lernen Sprachen oft ineffizient, weil sie sich nicht trauen zu sprechen. Die Angst vor Fehlern oder Ablehnung blockiert aktives Lernen.
+
+Lösung:
+Unsere App bietet eine sichere, sprachlich authentische Umgebung mit virtuellen Muttersprachler-Avataren. Die Nutzer können jederzeit in Gespräche "hineinspringen", Fragen stellen oder kommentieren. CEFR-basiertes Feedback, Popover-Erklärungen, Kontexthilfen und kulturelle Hinweise unterstützen situatives Lernen.
+
+Vision:
+Lernen wird zu Interaktion. KI-gestützte Avatare simulieren reale Situationen, reagieren empathisch und korrigieren freundlich. Lernen findet auf dem Shopfloor, in Cafés oder virtuellen Straßen Indiens statt.
+
+Geschäftsmodell:
+Subscription-Modell mit Add-ons (z. B. reale Nachrichtenartikel, Lehrerfeedback, personalisierte Simulationen). Kooperation mit Verlagen für tagesaktuelle Inhalte denkbar.
+
+Technologie:
+
+GPT-4o / LLM
+
+Whisper / ElevenLabs / Play.ht
+
+Unity / Unreal / Three.js für 3D
+
+Tailwind + React für UI
+
+Vercel (Cursor) für Entwicklung
+
+Marktchance:
+
+500 Mio. digitale Sprachlernende weltweit. Hoher Bedarf an personalisierten, sicheren Lernräumen.
+
+Zukunftsausblick:
+Später auch für andere Lernfelder (Medizin, Technik, Politik). Sprachlernen ist nur der Anfang.
+
+2. Prototyp-Roadmap (Trello-Format)
+
+Spalten: Idee / To Do / In Bearbeitung / Getestet / Live
+
+Karten (Beispiele):
+
+
+
+3. Komprimiertes Cursor-Profil (für Vercel Umgebung)
+
+Projektname: SprachApp_NextGen
+
+Stack:
+
+React + Tailwind + Vite
+
+GPT-4o (OpenAI API)
+
+Whisper für Spracheingabe
+
+ElevenLabs optional für TTS
+
+JSON-basierte Glossarverwaltung
+
+Flexibles Popover-UI + Level-Feedback
+
+Git gesteuert (Branch pro Feature)
+
+Ziel:
+Sprachlern-App mit adaptivem, KI-gestütztem Feedback, CEFR-Level-Erkennung, Satzspiel, Glossaranalyse und zukünftigem Avatar-Modul.
+
+Langfristiges Ziel: Immersives Lernen durch KI-Avatare in interaktiven Welten.
