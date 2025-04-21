@@ -1,5 +1,9 @@
 # SprachlernApp - Italienisch Lern-App
 
+<p align="center">
+  <img src="public/logo.png" alt="SprachlernApp Logo" width="200"/>
+</p>
+
 Eine interaktive Web-Applikation zum Erlernen der italienischen Sprache, mit Fokus auf Satzstruktur und Grammatik.
 
 ## Features
