@@ -15,7 +15,15 @@ export function generateGlossary(text) {
     e: { translation: "und", category: "Konjunktion", cefr_level: "A1" },
     anna: { translation: "Anna", category: "Eigenname", cefr_level: "A1" },
     mangiare: { translation: "essen", category: "Verb", cefr_level: "A2" },
-    guardiamo: { translation: "wir schauen", category: "Verb", cefr_level: "B1" }
+    guardiamo: { translation: "wir schauen", category: "Verb", cefr_level: "B1" },
+    sindaco: { translation: "Bürgermeister", category: "Noun", cefr_level: "B2" },
+    di: { translation: "von", category: "Preposition", cefr_level: "A1" },
+    Roma: { translation: "Rom", category: "Noun", cefr_level: "A1" },
+    ha: { translation: "hat", category: "Verb", cefr_level: "A1" },
+    incontrato: { translation: "getroffen", category: "Verb", cefr_level: "B1" },
+    presidente: { translation: "Präsidenten", category: "Noun", cefr_level: "A2" },
+    della: { translation: "der", category: "Preposition", cefr_level: "A1" },
+    Repubblica: { translation: "Republik", category: "Noun", cefr_level: "A2" }
   };
 
   const glossary = {};

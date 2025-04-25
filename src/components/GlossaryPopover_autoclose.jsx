@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import './index.css';
+import '../index.css';
 
 let openPopoverRef = null;
 

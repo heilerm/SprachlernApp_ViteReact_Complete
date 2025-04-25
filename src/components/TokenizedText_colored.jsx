@@ -1,6 +1,6 @@
-
 import React, { useEffect, useState } from 'react';
 import GlossaryPopover from './GlossaryPopover_autoclose';
+import '../index.css';
 
 export default function TokenizedText({ text, glossary, cefrLevel, setHighlightedCategory }) {
   const [colorMap, setColorMap] = useState({});

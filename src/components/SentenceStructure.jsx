@@ -1,5 +1,5 @@
-
 import React from 'react';
+import '../index.css';
 
 export default function SentenceStructure({ text, glossary }) {
   const words = text.split(" ").map(w => w.replace(/[.,!?%']/g, ''));

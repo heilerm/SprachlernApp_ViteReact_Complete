@@ -1,10 +1,8 @@
-
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,jsx}",
-    "./public/**/*.json" // ← falls du JSON-Dateien überwachen willst (optional)
+    "./src/**/*.{js,jsx,ts,tsx}",
   ],
   safelist: [
     "bg-yellow-100", "text-yellow-900",

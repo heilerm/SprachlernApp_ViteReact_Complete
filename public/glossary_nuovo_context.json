@@ -1,33 +1,33 @@
-{
-  "nuovo": {
-    "word": "nuovo",
-    "category": "Adjektiv",
-    "cefr_level": "A1",
-    "grammar": "maskulin, Singular – angepasst an ‚sindaco‘.",
-    "culture_note": "In der italienischen Grammatik passt sich das Adjektiv in Genus und Numerus dem Nomen an. Klicke auf ‚Beispiele anzeigen‘ für typische Formen von ‚nuovo‘.",
-    "cultural_examples": [
-      {
-        "form": "nuovo",
-        "example": "Il nuovo sindaco arriva oggi.",
-        "explanation": "maskulin, Singular – z. B. ‚der neue Bürgermeister‘"
-      },
-      {
-        "form": "nuova",
-        "example": "La nuova scuola è molto grande.",
-        "explanation": "feminin, Singular – z. B. ‚die neue Schule‘"
-      },
-      {
-        "form": "nuovi",
-        "example": "I nuovi studenti sono gentili.",
-        "explanation": "maskulin, Plural – z. B. ‚die neuen Schüler‘"
-      },
-      {
-        "form": "nuove",
-        "example": "Le nuove idee sono interessanti.",
-        "explanation": "feminin, Plural – z. B. ‚die neuen Ideen‘"
-      }
-    ],
-    "comparison": "Wie ‚nuevo‘ im Spanischen, ‚nouveau‘ im Französischen.",
-    "external_links": []
+  {
+    "nuovo": {
+      "word": "nuovo",
+      "category": "Adjektiv",
+      "cefr_level": "A1",
+      "grammar": "maskulin, Singular – angepasst an ‚sindaco‘.",
+      "culture_note": "In der italienischen Grammatik passt sich das Adjektiv in Genus und Numerus dem Nomen an. Klicke auf ‚Beispiele anzeigen‘ für typische Formen von ‚nuovo‘.",
+      "cultural_examples": [
+        {
+          "form": "nuovo",
+          "example": "Il nuovo sindaco arriva oggi.",
+          "explanation": "maskulin, Singular – z. B. ‚der neue Bürgermeister‘"
+        },
+        {
+          "form": "nuova",
+          "example": "La nuova scuola è molto grande.",
+          "explanation": "feminin, Singular – z. B. ‚die neue Schule‘"
+        },
+        {
+          "form": "nuovi",
+          "example": "I nuovi studenti sono gentili.",
+          "explanation": "maskulin, Plural – z. B. ‚die neuen Schüler‘"
+        },
+        {
+          "form": "nuove",
+          "example": "Le nuove idee sono interessanti.",
+          "explanation": "feminin, Plural – z. B. ‚die neuen Ideen‘"
+        }
+      ],
+      "comparison": "Wie ‚nuevo‘ im Spanischen, ‚nouveau‘ im Französischen.",
+      "external_links": []
+    }
   }
-}
